@@ -14,7 +14,7 @@
 
 ---
 
-NOTE: [node-js]: https://nodejs.org/ must be installed
+NOTE: [node-js]: (https://nodejs.org/) must be installed
 
 ```
 npm install
