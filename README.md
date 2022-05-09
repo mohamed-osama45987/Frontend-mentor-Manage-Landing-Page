@@ -1,6 +1,8 @@
 # Front end mentor landing page challenges
 
 ---
+![caption](https://media.giphy.com/media/XtHfSSFn2gd55IE5b8/giphy.gif)
+
 
 ## Technologies used
 
