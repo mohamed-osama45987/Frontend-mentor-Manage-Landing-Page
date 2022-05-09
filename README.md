@@ -1,4 +1,4 @@
-# Front end mentor landing page challenges
+# Front end mentor landing page challenges using tail wind css
 
 ---
 ![caption](https://media.giphy.com/media/XtHfSSFn2gd55IE5b8/giphy.gif)
