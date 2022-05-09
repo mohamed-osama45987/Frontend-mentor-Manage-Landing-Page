@@ -1,12 +1,12 @@
-# Front end mentor landing page challenges using tail wind css
+# Front end mentor landing page challenges using tailwind css
 
----
+
 ![caption](https://media.giphy.com/media/XtHfSSFn2gd55IE5b8/giphy.gif)
 
 
 ## Technologies used
 
----
+
 
     *HTML
     *TailWind-Css
@@ -14,7 +14,7 @@
 
 ## Usage & Installation
 
----
+
 
 NOTE: [node-js](https://nodejs.org/) must be installed
 
