@@ -19,10 +19,10 @@
 NOTE: [node-js](https://nodejs.org/) must be installed
 
 ```
-npm install
+npm install // To install dependencies
 
-npm run dev
+npm run dev  // To start a development server
 
-npm run build
+npm run build // To make a minified build css version
 
 ```
